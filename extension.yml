@@ -10,7 +10,7 @@ extension:
   license: MIT
 
 requires:
-  speckit_version: ">=0.12.9.dev0,<1.2.0"   # tested on 0.12.9 and 1.1.2
+  speckit_version: ">=0.12.9.dev0,<=1.2.0"   # tested on 0.12.9 and 1.1.2
   tools:
     - name: git
       required: true
